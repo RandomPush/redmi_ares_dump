@@ -1,0 +1,14 @@
+# missi-user 12 SP1A.210812.016 22.8.10 release-keys
+- manufacturer: xiaomi
+- platform: mt6893
+- codename: ares
+- flavor: missi-user
+- release: 12
+- id: SP1A.210812.016
+- incremental: 22.8.10
+- tags: release-keys
+- fingerprint: redmi/vnd_ares/ares:12/SP1A.210812.016/22.8.10:user/release-keys
+- is_ab: true
+- brand: redmi
+- branch: missi-user-12-SP1A.210812.016-22.8.10-release-keys
+- repo: redmi_ares_dump
