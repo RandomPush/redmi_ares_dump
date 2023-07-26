@@ -1,0 +1,14 @@
+# missi_phoneext4_cn-user 13 TP1A.220624.014 V14.0.23.4.10.DEV release-keys
+- manufacturer: xiaomi
+- platform: mt6893
+- codename: ares
+- flavor: missi_phoneext4_cn-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: V14.0.23.4.10.DEV
+- tags: release-keys
+- fingerprint: redmi/vnd_ares/ares:12/SP1A.210812.016/V14.0.23.4.10.DEV:user/release-keys
+- is_ab: true
+- brand: redmi
+- branch: missi_phoneext4_cn-user-13-TP1A.220624.014-V14.0.23.4.10.DEV-release-keys
+- repo: redmi_ares_dump
